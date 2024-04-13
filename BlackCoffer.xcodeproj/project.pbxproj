@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DFB009022BCA810300907C36 /* sliderPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB009012BCA810300907C36 /* sliderPage.swift */; };
+		DFB009062BCA8AA800907C36 /* personalPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB009052BCA8AA800907C36 /* personalPage.swift */; };
 		DFC857882BC542580022F332 /* BlackCofferApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857872BC542580022F332 /* BlackCofferApp.swift */; };
 		DFC8578A2BC542580022F332 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857892BC542580022F332 /* ContentView.swift */; };
 		DFC8578C2BC542590022F332 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFC8578B2BC542590022F332 /* Assets.xcassets */; };
@@ -42,6 +43,7 @@
 
 /* Begin PBXFileReference section */
 		DFB009012BCA810300907C36 /* sliderPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sliderPage.swift; sourceTree = "<group>"; };
+		DFB009052BCA8AA800907C36 /* personalPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = personalPage.swift; sourceTree = "<group>"; };
 		DFC857842BC542580022F332 /* BlackCoffer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlackCoffer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFC857872BC542580022F332 /* BlackCofferApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlackCofferApp.swift; sourceTree = "<group>"; };
 		DFC857892BC542580022F332 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				DFC857BC2BC54B670022F332 /* contactPage.swift */,
 				DFC857B42BC542E60022F332 /* refinePage.swift */,
 				DFB009012BCA810300907C36 /* sliderPage.swift */,
+				DFB009052BCA8AA800907C36 /* personalPage.swift */,
 				DFC8578B2BC542590022F332 /* Assets.xcassets */,
 				DFC8578D2BC542590022F332 /* BlackCoffer.entitlements */,
 				DFC8578E2BC542590022F332 /* Preview Content */,
@@ -286,6 +289,7 @@
 				DFB009022BCA810300907C36 /* sliderPage.swift in Sources */,
 				DFC857B52BC542E60022F332 /* refinePage.swift in Sources */,
 				DFC8578A2BC542580022F332 /* ContentView.swift in Sources */,
+				DFB009062BCA8AA800907C36 /* personalPage.swift in Sources */,
 				DFC857BD2BC54B670022F332 /* contactPage.swift in Sources */,
 				DFC857B72BC54AA80022F332 /* Homepage.swift in Sources */,
 				DFC857882BC542580022F332 /* BlackCofferApp.swift in Sources */,
