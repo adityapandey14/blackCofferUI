@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DFB009022BCA810300907C36 /* sliderPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB009012BCA810300907C36 /* sliderPage.swift */; };
 		DFC857882BC542580022F332 /* BlackCofferApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857872BC542580022F332 /* BlackCofferApp.swift */; };
 		DFC8578A2BC542580022F332 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857892BC542580022F332 /* ContentView.swift */; };
 		DFC8578C2BC542590022F332 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFC8578B2BC542590022F332 /* Assets.xcassets */; };
@@ -14,6 +15,12 @@
 		DFC8579A2BC542590022F332 /* BlackCofferTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857992BC542590022F332 /* BlackCofferTests.swift */; };
 		DFC857A42BC542590022F332 /* BlackCofferUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857A32BC542590022F332 /* BlackCofferUITests.swift */; };
 		DFC857A62BC542590022F332 /* BlackCofferUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857A52BC542590022F332 /* BlackCofferUITestsLaunchTests.swift */; };
+		DFC857B32BC542D60022F332 /* explorePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857B22BC542D60022F332 /* explorePage.swift */; };
+		DFC857B52BC542E60022F332 /* refinePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857B42BC542E60022F332 /* refinePage.swift */; };
+		DFC857B72BC54AA80022F332 /* Homepage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857B62BC54AA80022F332 /* Homepage.swift */; };
+		DFC857B92BC54B520022F332 /* NetworkPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857B82BC54B520022F332 /* NetworkPage.swift */; };
+		DFC857BB2BC54B5E0022F332 /* chatPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857BA2BC54B5E0022F332 /* chatPage.swift */; };
+		DFC857BD2BC54B670022F332 /* contactPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857BC2BC54B670022F332 /* contactPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DFB009012BCA810300907C36 /* sliderPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sliderPage.swift; sourceTree = "<group>"; };
 		DFC857842BC542580022F332 /* BlackCoffer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlackCoffer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFC857872BC542580022F332 /* BlackCofferApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlackCofferApp.swift; sourceTree = "<group>"; };
 		DFC857892BC542580022F332 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +53,12 @@
 		DFC8579F2BC542590022F332 /* BlackCofferUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlackCofferUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFC857A32BC542590022F332 /* BlackCofferUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlackCofferUITests.swift; sourceTree = "<group>"; };
 		DFC857A52BC542590022F332 /* BlackCofferUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlackCofferUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DFC857B22BC542D60022F332 /* explorePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = explorePage.swift; sourceTree = "<group>"; };
+		DFC857B42BC542E60022F332 /* refinePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = refinePage.swift; sourceTree = "<group>"; };
+		DFC857B62BC54AA80022F332 /* Homepage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homepage.swift; sourceTree = "<group>"; };
+		DFC857B82BC54B520022F332 /* NetworkPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkPage.swift; sourceTree = "<group>"; };
+		DFC857BA2BC54B5E0022F332 /* chatPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chatPage.swift; sourceTree = "<group>"; };
+		DFC857BC2BC54B670022F332 /* contactPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contactPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +111,13 @@
 			children = (
 				DFC857872BC542580022F332 /* BlackCofferApp.swift */,
 				DFC857892BC542580022F332 /* ContentView.swift */,
+				DFC857B62BC54AA80022F332 /* Homepage.swift */,
+				DFC857B22BC542D60022F332 /* explorePage.swift */,
+				DFC857B82BC54B520022F332 /* NetworkPage.swift */,
+				DFC857BA2BC54B5E0022F332 /* chatPage.swift */,
+				DFC857BC2BC54B670022F332 /* contactPage.swift */,
+				DFC857B42BC542E60022F332 /* refinePage.swift */,
+				DFB009012BCA810300907C36 /* sliderPage.swift */,
 				DFC8578B2BC542590022F332 /* Assets.xcassets */,
 				DFC8578D2BC542590022F332 /* BlackCoffer.entitlements */,
 				DFC8578E2BC542590022F332 /* Preview Content */,
@@ -259,7 +280,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFC857B32BC542D60022F332 /* explorePage.swift in Sources */,
+				DFC857B92BC54B520022F332 /* NetworkPage.swift in Sources */,
+				DFC857BB2BC54B5E0022F332 /* chatPage.swift in Sources */,
+				DFB009022BCA810300907C36 /* sliderPage.swift in Sources */,
+				DFC857B52BC542E60022F332 /* refinePage.swift in Sources */,
 				DFC8578A2BC542580022F332 /* ContentView.swift in Sources */,
+				DFC857BD2BC54B670022F332 /* contactPage.swift in Sources */,
+				DFC857B72BC54AA80022F332 /* Homepage.swift in Sources */,
 				DFC857882BC542580022F332 /* BlackCofferApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
