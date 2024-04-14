@@ -23,6 +23,7 @@
 		DFC857B92BC54B520022F332 /* NetworkPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857B82BC54B520022F332 /* NetworkPage.swift */; };
 		DFC857BB2BC54B5E0022F332 /* chatPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857BA2BC54B5E0022F332 /* chatPage.swift */; };
 		DFC857BD2BC54B670022F332 /* contactPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC857BC2BC54B670022F332 /* contactPage.swift */; };
+		DFF203DA2BCC4D1A000DF985 /* BusinessesPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFF203D92BCC4D1A000DF985 /* BusinessesPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		DFC857B82BC54B520022F332 /* NetworkPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkPage.swift; sourceTree = "<group>"; };
 		DFC857BA2BC54B5E0022F332 /* chatPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chatPage.swift; sourceTree = "<group>"; };
 		DFC857BC2BC54B670022F332 /* contactPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contactPage.swift; sourceTree = "<group>"; };
+		DFF203D92BCC4D1A000DF985 /* BusinessesPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessesPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 				DFB009012BCA810300907C36 /* sliderPage.swift */,
 				DFB009052BCA8AA800907C36 /* personalPage.swift */,
 				DFB009072BCA8B9E00907C36 /* servicePage.swift */,
+				DFF203D92BCC4D1A000DF985 /* BusinessesPage.swift */,
 				DFC8578B2BC542590022F332 /* Assets.xcassets */,
 				DFC8578D2BC542590022F332 /* BlackCoffer.entitlements */,
 				DFC8578E2BC542590022F332 /* Preview Content */,
@@ -294,6 +297,7 @@
 				DFC8578A2BC542580022F332 /* ContentView.swift in Sources */,
 				DFB009062BCA8AA800907C36 /* personalPage.swift in Sources */,
 				DFC857BD2BC54B670022F332 /* contactPage.swift in Sources */,
+				DFF203DA2BCC4D1A000DF985 /* BusinessesPage.swift in Sources */,
 				DFC857B72BC54AA80022F332 /* Homepage.swift in Sources */,
 				DFB009082BCA8B9E00907C36 /* servicePage.swift in Sources */,
 				DFC857882BC542580022F332 /* BlackCofferApp.swift in Sources */,
