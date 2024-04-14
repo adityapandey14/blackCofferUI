@@ -1,13 +1,13 @@
 //
-//  personalPage.swift
+//  servicesPage.swift
 //  BlackCoffer
 //
-//  Created by Aditya Pandey on 13/04/24.
+//  Created by Aditya Pandey on 15/04/24.
 //
 
 import SwiftUI
 
-struct PersonalPage: View {
+struct servicesPage: View {
     var body: some View {
         VStack {
             searchView()
@@ -20,12 +20,6 @@ struct PersonalPage: View {
         }
     }
 }
-
-#if DEBUG
-struct PersonalPage_Previews: PreviewProvider {
-    static var previews: some View {
-        PersonalPage()
-    }
+#Preview {
+    servicesPage()
 }
-#endif
-

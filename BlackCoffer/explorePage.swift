@@ -16,7 +16,7 @@ struct explorePage: View {
         NavigationStack {
             VStack {
                 topBar()
-                searchView()
+               Spacer()
             
             }
         }
